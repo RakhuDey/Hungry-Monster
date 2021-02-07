@@ -1,0 +1,61 @@
+.search-box {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#search-input {
+    width: 300px;
+    height: 30px;
+    border: 1px solid indigo;
+    border-radius: 10px;
+}
+
+#search-button {
+    width: 100px;
+    height: 30px;
+    background-color: burlywood;
+    border: 1px solid indigo;
+    border-radius: 10px;
+}
+
+#final-detail {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#final-detail img {
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#ingredient li {
+    text-align: justify;
+    color: blueviolet;
+}
+
+#meal-pic-name {
+    padding: 20px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+#meal-img img {
+    width: 200px;
+}
+
+.meal-with-name {
+    border: 1px solid goldenrod;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.detail-btn {
+    width: 100px;
+    height: 30px;
+    background-color: burlywood;
+    border: 1px solid indigo;
+    border-radius: 10px;
+}
